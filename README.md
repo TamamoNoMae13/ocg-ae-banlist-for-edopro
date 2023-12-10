@@ -5,5 +5,5 @@ OCG-AE banlist config file for EDOPro
 Download `OCG-AE.lflist.conf` and put it in `<...>\ProjectIgnis\lflists` folder.
 
 ## Status
-Updated to CR01-AE (25 November 2023).  
+Updated to DUNE-AE (16 December 2023).  
 For unrelease sets, check other branches of this repo.
