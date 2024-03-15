@@ -8,4 +8,4 @@ For unrelease sets, check the `unrelease` branch of this repo.
 Download `OCG-AE.lflist.conf` and put it in `<...>\ProjectIgnis\lflists` folder.
 
 ## Status
-Updated to CR03-AE (09 March 2024).
+Updated to PHNI-AE (30 March 2024).
