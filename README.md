@@ -8,4 +8,4 @@ For released cards only, check the `main` branch of this repo.
 Download `OCG-AE.lflist.conf` and put it in `<...>\ProjectIgnis\lflists` folder.
 
 ## Status
-Updated to 24AT-AE2 (1 April 2024).
+Updated to CR04-AE (27 April 2024).
