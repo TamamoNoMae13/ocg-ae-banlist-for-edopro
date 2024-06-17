@@ -8,4 +8,4 @@ For unrelease sets, check the `unrelease` branch of this repo.
 Download `OCG-AE.lflist.conf` and put it in `<...>\ProjectIgnis\lflists` folder.
 
 ## Status
-Updated to SDSS-AE (18 May 2024).
+Updated to LEDE-AE (15 June 2024).
