@@ -8,4 +8,4 @@ For unrelease sets, check the `unrelease` branch of this repo.
 Download `OCG-AE.lflist.conf` and put it in `<...>\ProjectIgnis\lflists` folder.
 
 ## Status
-Updated to DI01-AE and DI02-AE (30 November 2024).
+Updated to SLF1-AE (14 December 2024).
