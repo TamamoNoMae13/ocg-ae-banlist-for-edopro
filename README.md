@@ -8,4 +8,4 @@ For unrelease sets, check the `unrelease` branch of this repo.
 Download `OCG-AE.lflist.conf` and put it in `<...>\ProjectIgnis\lflists` folder.
 
 ## Status
-Updated to SUDA-AE (15 February 2025).
+Updated to DBCB-AE (15 March 2025).
