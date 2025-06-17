@@ -5,4 +5,4 @@ OCG-AE banlist config file for EDOPro.
 Download `OCG-AE.lflist.conf` and put it in `<...>\ProjectIgnis\lflists` folder.
 
 ## Status
-Updated to TT02-AEB & TT02-AEA (24 May 2025).
+Updated to CR08-AE (14 June 2025).
