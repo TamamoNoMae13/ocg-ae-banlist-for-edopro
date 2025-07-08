@@ -6,4 +6,4 @@ Download `OCG-AE.lflist.conf` and put it in `<...>\ProjectIgnis\lflists` folder.
 
 ## Status
 Updated July 2025 banlist.
-Updated card list to CR08-AE (14 June 2025).
+Updated card list to 25AT-AE2 (1 July 2025).
