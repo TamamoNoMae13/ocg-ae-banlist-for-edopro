@@ -5,5 +5,5 @@ OCG-AE banlist config file for EDOPro.
 Download `OCG-AE.lflist.conf` and put it in `<...>\ProjectIgnis\lflists` folder.
 
 ## Status
-Updated October 2025 banlist.
-Updated card list to DOOD-AE, DOOD-AES, and DOOD-AEC (13 December 2025).
+Updated January 2026 banlist.
+Updated card list to 25AT-AE4 (1 Jan 2026).
